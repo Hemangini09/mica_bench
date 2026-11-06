@@ -1,0 +1,7 @@
+cryoatom n=12
+emodelx n=9
+mica n=6
+modelangelo n=12
+phenix_map_to_model n=10
+cryo2struct n=7
+af3_alone n=12

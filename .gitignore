@@ -1,0 +1,8 @@
+dataset/
+models/
+results.zip
+MANIFEST.tsv
+__pycache__/
+*.py[cod]
+logs/
+*.log

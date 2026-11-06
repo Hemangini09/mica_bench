@@ -1,0 +1,15 @@
+PDB,EMDB,Resolution (Å),Cα,Unique seq,"Author
+chains","Protein 
+Name",Organism
+9VF5,EMD-53095,1.52,3012,1,6 (A-F),L-arabinose isomerase,Arthrobacter psychrolactophilus
+9XDE,EMD-66764,1.64,2204,1,4 (A-D),Maltose α-D-glucosyltransferase,Arthrobacter alpinus
+9TBI,EMD-55772,1.7,723,3,3 (A-C),Capsid proteins VP1-VP3,Human hepatitis A virus
+9WP6,EMD-66135,1.98,3891,1,10 (AJ),Glutamine synthetase,Zea mays
+9RVN,EMD-54289,2.3,1096,2,"2 (A, B)",Capsid protein and P4,Penicillium chrysogenum virus
+9S3M,EMD-54540,2.31,967,2,3 (A-C),Gephyrin isoform 5 and DARPin,Rattus norvegicus; synthetic
+9N5N,EMD-48929,2.35,888,1,"2 (A, B)",NadC-family transporter,Vibrio cholerae O1 El Tor N16961
+9XON,EMD-67084,2.5,2525,1,25 (A-Y),RIPK1,Homo sapiens
+9W22,EMD-65563,3.12,692,1,"2 (A, B)",Non-structural protein 1,Dengue virus type 2
+9UIT,EMD-64204,3.14,548,1,1 (A),NRT1/PTR FAMILY 2.10,Arabidopsis thaliana
+33AW,EMD-59318,3.84,465,1,1 (A),T33-Fus-2 subunit,Synthetic construct
+9WSD,EMD-66197,4,1210,1,4 (A–D),Cell-division protein FtsZ,Escherichia coli K-12
